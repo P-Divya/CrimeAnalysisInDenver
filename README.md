@@ -1,0 +1,5 @@
+# CrimeAnalysisInDenver
+
+The objective of this project was to forecast and identify patterns relating to the incidence of crime for improved support to law enforcement agencies, as well as to aid in the development of effective crime prevention measures and policies. Initially, statistical analysis and data visualization methods were applied, followed by the implementation of various classification algorithms such as Random Forest, Decision Tree, AdaBoost Classifier, K-Neighbors Classifiers, and others. Ensemble Models were utilized to classify 15 different classes of crimes, with outcomes captured by train-test split and k-fold cross-validation. To assess performance, "precision, recall, F1-score, Mean Squared Error, ROC curve, and paired-T-test" were used. While most algorithms achieved sufficient accuracy, Ensemble Model 4 demonstrated the best results across all evaluation criteria. The study suggests that its findings could be most valuable in identifying crime hotspots and predicting violent crime locations within a specified time, providing support to law enforcement agencies.
+
+Read more [here](./Group16_AnalysisOfCrimeInDenver.pdf)
